@@ -1,0 +1,18 @@
+#main-head{
+  height: calc(100vh - 54px);
+  background-image: url('https://images.unsplash.com/photo-1507752533523-5186b0bc4c43?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGFyayUyMGNpdHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60');
+  background-size: cover;
+}
+
+.page-section{
+  padding: 6em 0;
+}
+
+.section-heading{ 
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.section-subheading{
+  margin-bottom: 4rem;
+}
